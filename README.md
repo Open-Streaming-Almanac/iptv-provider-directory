@@ -55,4 +55,4 @@ on the open web are paid placements with no methodology disclosure.
 MIT for any code; CC-BY-4.0 for the written notes.
 
 ---
-*Last verified: May 31, 2026*
+*Last verified: June 01, 2026*
